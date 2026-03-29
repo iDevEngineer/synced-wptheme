@@ -1,0 +1,26 @@
+@theme {
+  /* Brand colours */
+  --color-primary: #ffffff;
+  --color-secondary: #1a1a1a;
+  --color-accent: #6366f1;
+  --color-accent-dark: #4f46e5;
+  --color-muted: #6b7280;
+  --color-surface: #f9fafb;
+  --color-border: #e5e7eb;
+
+  /* Typography */
+  --font-sans: 'Inter', system-ui, sans-serif;
+  --font-mono: 'JetBrains Mono', 'Fira Code', monospace;
+
+  /* Spacing scale */
+  --spacing-section: 5rem;
+  --spacing-container: 1.5rem;
+
+  /* Border radius */
+  --radius-sm: 0.25rem;
+  --radius-md: 0.5rem;
+  --radius-lg: 1rem;
+
+  /* Container max width */
+  --container-max: 72rem;
+}
